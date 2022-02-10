@@ -1,0 +1,5 @@
+a=25
+ifa>0 :
+ Print('positive')
+else :
+ Print ('negative')
